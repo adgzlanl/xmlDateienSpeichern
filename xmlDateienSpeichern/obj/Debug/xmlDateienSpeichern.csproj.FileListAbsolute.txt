@@ -1,0 +1,10 @@
+C:\Users\Admin\Google Drive\WorkWorkWork\Pfluka\Projekt\Beckhoff\18111_Pfluka_Kabeleinschubanlage\xmlDateienSpeichern\xmlDateienSpeichern\bin\Debug\xmlDateienSpeichern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\bin\Debug\xmlDateienSpeichern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\bin\Debug\xmlDateienSpeichern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\bin\Debug\xmlDateienSpeichern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\xmlDateienSpeichern\xmlDateienSpeichern\obj\Debug\xmlDateienSpeichern.pdb
